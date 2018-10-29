@@ -1,4 +1,4 @@
-# PVerilog Programming Training for FPGAg
+# Verilog Programming Training for FPGA
 ## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Verilog Programming Training for FPGA](https://www.tertiarycourses.com.sg/verilog-programming-training-for-fpga.html) course. 
